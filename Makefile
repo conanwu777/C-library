@@ -82,4 +82,4 @@ libft.a: $(OBJECTS)
 	ar rcs $@ $(OBJECTS)
 
 %.o: %.c
-	gcc $(CFlAGS) -c $< -o $@
+	gcc $(CFlAGS) -O2 -c $< -o $@
