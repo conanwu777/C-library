@@ -3,6 +3,8 @@ A library recreating standard libc functions, with some extra personalized funct
 
 This is the first assignment in the core curriculum of software engineering school 42.
 
+![alt text](https://github.com/conanwu777/C-library/blob/master/img1.png)
+
 ### libc functions
 
 memset
